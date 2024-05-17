@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zee_tv_hd" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/sX7nFNJ3/Zee-TV-HD.png" tvg-chno="zee_tv_hd" group-title="Entertainment - Hindi",Zee TV HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_tv_hd
+#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/yYThpGZm/Zee-Cinema-HD.png" tvg-chno="zee_cinema_hd" group-title="Movies - Hindi",Zee Cinema HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_cinema_hd
+#EXTINF:-1 tvg-id="and_tv_hd" tvg-name="And TV HD (& TV HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/kMKvKGMh/tvHD.png" tvg-chno="and_tv_hd" group-title="Entertainment - Hindi",And TV HD (& TV HD)
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=and_tv_hd
+#EXTINF:-1 tvg-id="and_picture_hd" tvg-name="And Pictures HD (& Pictures HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/1tLMPNmD/pictures-HD.png" tvg-chno="and_picture_hd" group-title="Movies - Hindi",And Pictures HD (& Pictures HD)
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=and_picture_hd
+#EXTINF:-1 tvg-id="sony_entertainmnt_hd" tvg-name="Sony TV HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/52NBhmBZ/SONY-SET-HD.png" tvg-chno="sony_entertainmnt_hd" group-title="Entertainment - Hindi",Sony TV HD (SET HD)
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_entertainmnt_hd
+#EXTINF:-1 tvg-id="zee_cafe_hd" tvg-name="Zee Cafe HD" tvg-country="IN" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png" tvg-chno="zee_cafe_hd" group-title="Movies - English",Zee Cafe HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_cafe_hd
+#EXTINF:-1 tvg-id="set_max_hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/h4LVhYMk/SONY-MAX-HD.png" tvg-chno="set_max_hd" group-title="Movies - Hindi",Sony MAX HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=set_max_hd
+#EXTINF:-1 tvg-id="sony_pix_hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/yYt2fkC4/SONY-PIX-HD.png" tvg-chno="sony_pix_hd" group-title="Movies - English",Sony PIX HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_pix_hd
+#EXTINF:-1 tvg-id="sony_sab_hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/dVCpgwJ7/SONY-SAB-HD.png" tvg-chno="sony_sab_hd" group-title="Entertainment - Hindi",Sony SAB HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_sab_hd
+#EXTINF:-1 tvg-id="sony_bbc_earth_hd" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/vmdkskm0/SONY-BBC-EARTH.png" tvg-chno="sony_bbc_earth_hd" group-title="Infotainment - English",Sony BBC Earth HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_bbc_earth_hd
+#EXTINF:-1 tvg-id="tlc_hd" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/GpJNhK8d/TLC-HD.png" tvg-chno="tlc_hd" group-title="Lifestyle - English",TLC HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=tlc_hd
+#EXTINF:-1 tvg-id="ngc_sd" tvg-name="National Geographic (Nat Geo)" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTtr0DtH/National-Geographic.png" tvg-chno="ngc_sd" group-title="Infotainment - English",National Geographic (Nat Geo)
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=ngc_sd
+#EXTINF:-1 tvg-id="ngc_wild" tvg-name="National Geographic Wild (Nat Geo Wild)" tvg-country="IN" tvg-logo="https://i.postimg.cc/RVkb7ywv/Nat-Geo-Wild.png" tvg-chno="ngc_wild" group-title="Infotainment - English",National Geographic Wild (Nat Geo Wild)
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=ngc_wild
+#EXTINF:-1 tvg-id="star_plus" tvg-name="Star Plus" tvg-country="IN" tvg-logo="https://i.postimg.cc/vmMqjnPj/Star-Plus.png" tvg-chno="star_plus" group-title="Entertainment - Hindi",Star Plus
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=star_plus
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://i.postimg.cc/pTcsp62b/Star-Jalsa-HD.png" tvg-chno="star_jalsha" group-title="Entertainment - Bengali",Star Jalsha
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=star_jalsha
+#EXTINF:-1 tvg-id="star_gold" tvg-name="Star Gold" tvg-country="IN" tvg-logo="https://i.postimg.cc/PrwS5y99/Star-Gold.png" tvg-chno="star_gold" group-title="Movies - Hindi",Star Gold
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=star_gold
+#EXTINF:-1 tvg-id="jalsha_movies" tvg-name="Star Jalsha Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/nhf0j7tz/Star-Jalsha-Movies.png" tvg-chno="jalsha_movies" group-title="Movies - Bengali",Star Jalsha Movies
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=jalsha_movies
+#EXTINF:-1 tvg-id="star_bharat" tvg-name="Star Bharat" tvg-country="IN" tvg-logo="https://i.postimg.cc/q7jL556h/Star-Bharat-HD.png" tvg-chno="star_bharat" group-title="Entertainment - Hindi",Star Bharat
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=star_bharat
+#EXTINF:-1 tvg-id="discovery_hd" tvg-name="Discovery HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/PfLg1m0z/Discovery-HD.png" tvg-chno="discovery_hd" group-title="Infotainment - English",Discovery HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=discovery_hd
+#EXTINF:-1 tvg-id="animal_planet_hd" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/cJH90WSM/Animal-Planet-HD.png" tvg-chno="animal_planet_hd" group-title="Infotainment - English",Animal Planet HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=animal_planet_hd
+#EXTINF:-1 tvg-id="mtv_beats_hd" tvg-name="MTV Beats HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/43S8304C/MTV-Beats-HD.png" tvg-chno="mtv_beats_hd" group-title="Music - Hindi",MTV Beats HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=mtv_beats_hd
+#EXTINF:-1 tvg-id="colors" tvg-name="Colors" tvg-country="IN" tvg-logo="https://i.postimg.cc/k4RTRyD2/Colors.png" tvg-chno="colors" group-title="Entertainment - Hindi",Colors
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=colors
+#EXTINF:-1 tvg-id="vh1_hd" tvg-name="VH1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/NFhp6rrp/VH1.png" tvg-chno="vh1_hd" group-title="Music - English",VH1 HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=vh1_hd
+#EXTINF:-1 tvg-id="zing_sd" tvg-name="Zing" tvg-country="IN" tvg-logo="https://i.postimg.cc/gjv4NkVd/Zing.png" tvg-chno="zing_sd" group-title="Music - Hindi",Zing
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zing_sd
+#EXTINF:-1 tvg-id="sony_yay" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/Wbv5tgV4/SONY-YAY.png" tvg-chno="sony_yay" group-title="Kids - Bengali",Sony Yay
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_yay
+#EXTINF:-1 tvg-id="sony_max_2" tvg-name="Sony Max 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/vZ8XtycF/SONY-MAX-2.png" tvg-chno="sony_max_2" group-title="Movies - Hindi",Sony Max 2
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_max_2
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="IN" tvg-logo="https://i.postimg.cc/0NbfhCYV/MTV.png" tvg-chno="mtv" group-title="Music - Hindi",MTV
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=mtv
+#EXTINF:-1 tvg-id="sony_wah" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/g0QDp64m/SONY-WAH.png" tvg-chno="sony_wah" group-title="Movies - Hindi",Sony WAH
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_wah
+#EXTINF:-1 tvg-id="sony_ten1_hd" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/nVKQnw1C/SONY-SPORTS-TEN-1-HD.png" tvg-chno="sony_ten1_hd" group-title="Sports - English",Sony Sports Ten 1 HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_ten1_hd
+#EXTINF:-1 tvg-id="sony_ten2_hd" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/6qQwJ30V/SONY-SPORTS-TEN-2-HD.png" tvg-chno="sony_ten2_hd" group-title="Sports - English",Sony Sports Ten 2 HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_ten2_hd
+#EXTINF:-1 tvg-id="sony_ten3_hd" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/5tqMXvKq/SONY-SPORTS-TEN-3-HD.png" tvg-chno="sony_ten3_hd" group-title="Sports - English",Sony Sports Ten 3 HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_ten3_hd
+#EXTINF:-1 tvg-id="sony_six_hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/MGK8jHCC/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony_six_hd" group-title="Sports - English",Sony Sports Ten 5 HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_six_hd
+#EXTINF:-1 tvg-id="euro_sports_hd" tvg-name="Euro Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/q7WGz8Gb/Eurosport-HD.png" tvg-chno="euro_sports_hd" group-title="Sports - English",Euro Sports HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=euro_sports_hd
+#EXTINF:-1 tvg-id="fox_life" tvg-name="Fox Life" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/1280x720/landscape_original_poster_566215001674705603.png" tvg-chno="fox_life" group-title="Lifestyle - English",Fox Life
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=fox_life
+#EXTINF:-1 tvg-id="sony_aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/Y9gT92QF/SONY-AATH.png" tvg-chno="sony_aath" group-title="Entertainment - Bengali",Sony Aath
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_aath
+#EXTINF:-1 tvg-id="sony_pal" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/L6mG9p5q/SONY-PAL.png" tvg-chno="sony_pal" group-title="Entertainment - Hindi",Sony Pal
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_pal
+#EXTINF:-1 tvg-id="colors_b" tvg-name="Colors Bangla" tvg-country="IN" tvg-logo="https://i.postimg.cc/5NPKfQDG/Colors-Bangla.png" tvg-chno="colors_b" group-title="Entertainment - Bengali",Colors Bangla
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=colors_b
+#EXTINF:-1 tvg-id="colors_rishtey" tvg-name="Colors Rishtey" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLpmJRhD/Colors-Rishtey.png" tvg-chno="colors_rishtey" group-title="Entertainment - Hindi",Colors Rishtey
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=colors_rishtey
+#EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://i.postimg.cc/Fsf3Jf7w/Zee-Bangla.png" tvg-chno="zee_bangla" group-title="Entertainment - Bengali",Zee Bangla
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_bangla
+#EXTINF:-1 tvg-id="colors_infinity_hd" tvg-name="Colors Infinity HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/QNzWsX0m/Colors-Infinity-HD.png" tvg-chno="colors_infinity_hd" group-title="Entertainment - English",Colors Infinity HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=colors_infinity_hd
+#EXTINF:-1 tvg-id="comedy_central_hd" tvg-name="Comedy Central HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/3xFX3syw/Comedy-Central-HD.png" tvg-chno="comedy_central_hd" group-title="Entertainment - English",Comedy Central HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=comedy_central_hd
+#EXTINF:-1 tvg-id="zee_anmol" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://i.postimg.cc/jStf3M8Y/Zee-Anmol.png" tvg-chno="zee_anmol" group-title="Entertainment - Hindi",Zee Anmol
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_anmol
+#EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZKFBNrJ7/Discovery-Kids.png" tvg-chno="discovery_kids" group-title="Kids - Hindi",Discovery Kids
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=discovery_kids
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-logo="https://i.postimg.cc/Zq1K2RTv/Zee-Anmol-Cinema-jpg.png" tvg-chno="zee_bangla_cinema" group-title="Movies - Bengali",Zee Bangla Cinema
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_bangla_cinema
+#EXTINF:-1 tvg-id="zee_bolly" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLvvbPQj/Zee-Bollywood.png" tvg-chno="zee_bolly" group-title="Movies - Hindi",Zee Bollywood
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_bolly
+#EXTINF:-1 tvg-id="zee_action" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/50SyzJVH/Zee-Action.png" tvg-chno="zee_action" group-title="Movies - Hindi",Zee Action
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zee_action
+#EXTINF:-1 tvg-id="colors_bangla_cinema" tvg-name="Colors Bangla Cinema" tvg-country="IN" tvg-logo="https://i.postimg.cc/DwG2shQ2/Colors-Bangla-Cinema.png" tvg-chno="colors_bangla_cinema" group-title="Movies - Bengali",Colors Bangla Cinema
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=colors_bangla_cinema
+#EXTINF:-1 tvg-id="sony_max" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/15nPhSjp/SONY-MAX.png" tvg-chno="sony_max" group-title="Movies - Hindi",Sony MAX
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sony_max
+#EXTINF:-1 tvg-id="sonic" tvg-name="Sonic" tvg-country="IN" tvg-logo="https://i.postimg.cc/xd9WCVtp/Sonic-Nickelodeon.png" tvg-chno="sonic" group-title="Kids - Bengali",Sonic
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=sonic
+#EXTINF:-1 tvg-id="nick_junior" tvg-name="Nick Junior" tvg-country="IN" tvg-logo="https://i.postimg.cc/Hn5gM456/Nick-Jr.png" tvg-chno="nick_junior" group-title="Kids - Bengali",Nick Junior
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=nick_junior
+#EXTINF:-1 tvg-id="nick" tvg-name="Nick" tvg-country="IN" tvg-logo="https://i.postimg.cc/05mRcnMf/Nick.png" tvg-chno="nick" group-title="Kids - Bengali",Nick
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=nick
+#EXTINF:-1 tvg-id="b4u_movies" tvg-name="B4U Movies Asia Pacific" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/366/logo/1280x720/landscape_original_poster_193680001663003894.png" tvg-chno="b4u_movies" group-title="Movies - Hindi",B4U Movies Asia Pacific
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=b4u_movies
+#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/367/logo/1280x720/landscape_original_poster_596295001664253129.png" tvg-chno="b4umusic" group-title="Music - Hindi",B4U Music
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=b4umusic
+#EXTINF:-1 tvg-id="zoom_tv" tvg-name="Zoom" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/7838/logo/1280x720/landscape_original_poster_497264001639401080.png" tvg-chno="zoom_tv" group-title="Music - Hindi",Zoom
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=zoom_tv
+#EXTINF:-1 tvg-id="lotus_macau" tvg-name="Lotus Macau" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/389/logo/1280x720/landscape_original_poster_064937001673185059.png" tvg-chno="lotus_macau" group-title="Entertainment - English",Lotus Macau
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=lotus_macau
+#EXTINF:-1 tvg-id="discovery_india_id_hd" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/g227FHJ1/Investigation-Discovery.png" tvg-chno="discovery_india_id_hd" group-title="Infotainment - English",Investigation Discovery HD
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=discovery_india_id_hd
+#EXTINF:-1 tvg-id="rtv_b" tvg-name="RTV Bangladesh" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/338/logo/1280x720/landscape_original_poster_015936001645179589.png" tvg-chno="rtv_b" group-title="Entertainment - Bengali",RTV Bangladesh
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=rtv_b
+#EXTINF:-1 tvg-id="btv_sangshodh" tvg-name="Sangsad TV" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/64/logo/168x94/mobile_thumb_519363001485334791.png" tvg-chno="btv_sangshodh" group-title="Entertainment - Bengali",Sangsad TV
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=btv_sangshodh
+#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbWVDWJK/BOISHAKHI-HD-normal.jpg" tvg-chno="boishakhi" group-title="Entertainment - Bengali",Boishakhi TV
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=boishakhi
+#EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN Bangla" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/38/logo/1280x720/landscape_original_poster_168529001656610260.png" tvg-chno="atn_bangla" group-title="Entertainment - Bengali",ATN Bangla
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=atn_bangla
+#EXTINF:-1 tvg-id="discovery_turbo" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://i.postimg.cc/Mp1nwVFb/Discovery-Turbo.png" tvg-chno="discovery_turbo" group-title="Infotainment - English",Discovery Turbo
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=discovery_turbo
+#EXTINF:-1 tvg-id="history_tv" tvg-name="History TV 18" tvg-country="IN" tvg-logo="https://i.postimg.cc/JzdHPMvS/History-18-HD.png" tvg-chno="history_tv" group-title="Infotainment - English",History TV 18
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=history_tv
+#EXTINF:-1 tvg-id="discovery_science" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://i.postimg.cc/RhfW0t0B/Discovery-Science.png" tvg-chno="discovery_science" group-title="Infotainment - English",Discovery Science
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=discovery_science
+#EXTINF:-1 tvg-id="nhk_world" tvg-name="NHK World" tvg-country="IN" tvg-logo="https://i.postimg.cc/1zxYnhM1/landscape-original-poster-314935001563629478.png" tvg-chno="nhk_world" group-title="News - English",NHK World
+https://nitro-x-methods.shop/NITRO-X-TOFFEE/master.m3u8/?id=nhk_world

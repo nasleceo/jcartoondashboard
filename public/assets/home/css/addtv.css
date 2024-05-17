@@ -1,0 +1,298 @@
+
+
+.top {
+    width: 100%;
+   display:grid;
+   justify-content:space-around;
+}
+
+
+
+
+ .top .fetch {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.fetch input {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 35px;
+    border: 1px solid var(--color-primary);
+    border-radius: 3px;
+    width: 100%;
+    margin-right: .8rem;
+    padding: 0rem .5rem;
+
+}
+
+.fetch-btn {
+    height: 35px;
+    border: 1px solid var(--color-primary);
+    background: var(--color-primary);
+    border-radius: 3px;
+    width: 100%;
+    color: var(--color-white);
+    margin-right: .8rem;
+    padding: 0rem .5rem;
+    cursor: pointer;
+
+}
+ .top .fetch .fetch-btn {
+    height: 35px;
+    border: 1px solid var(--color-primary);
+    background: var(--color-primary);
+    border-radius: 3px;
+    width: 100%;
+    color: var(--color-white);
+    margin-right: .8rem;
+    padding: 0rem .5rem;
+    cursor: pointer;
+
+}
+.top .fetch button {
+    background: var(--color-primary);
+    color: var(--color-white);
+    height: 35px;
+    border-radius: 4px;
+    padding: 0rem 1rem;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+
+
+.btn-fetch {
+	font-size: 14px;
+	width: 229px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 6px 0;
+	color: var(--light);
+	background: var(--blue);
+	transition: all .3s ease;
+	border-radius: 5px;
+	font-weight: 600;
+	/* margin-bottom: 12px; */
+}
+
+
+h6{
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.form-group-info{
+
+	width: 100%;
+	display: flex;
+	grid-gap: 10px;
+    align-items: center;
+}
+main .form-group-info input {
+	flex-grow: 1;
+	padding: 8px 16px;
+	height: 80%;
+	border-radius: 5px;
+	outline: none;
+	background: var(--grey);
+	border: none;
+	transition: all .3s ease;
+	width: 100%;
+}
+
+main .form-group-info select {
+	flex-grow: 1;
+	padding: 4px 16px;
+	height: 80%;
+	border-radius: 5px;
+	outline: none;
+	background: var(--grey);
+	border: none;
+	transition: all .3s ease;
+    height: 3.2rem;
+}
+
+main .form-group-info textarea {
+	flex-grow: 1;
+	padding: 4px 16px;
+	height: 80%;
+	border-radius: 5px;
+	outline: none;
+	background: var(--grey);
+	border: none;
+	transition: all .3s ease;
+	width: 100%;
+}
+main .form-group-info input:focus {
+	box-shadow: 0 0 0 1px var(--blue), 0 0 0 4px var(--light-blue);
+}
+
+.addinfo{
+
+
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin: 0 1rem;
+    gap: 1.8rem;
+    position: relative;
+}
+
+
+.Movie-Info-2 {
+    background: var(--color-white);
+        width: 100%;
+        border-radius: .5rem;
+        padding: 1rem;
+        height: auto;
+        transition: all 300ms ease;
+        text-align: start;
+}
+
+.Movie-Info:hover ,.Movie-Info-2:hover{
+   box-shadow: none;
+}
+.Movie-Info h2 ,.Movie-Info-2 h2{
+    margin-bottom:  0.8rem;
+    color: var(--color-dark);
+}
+
+.Movie-Info hr ,.Movie-Info-2 hr {
+    border-bottom: 1px solid  var(--color-primary);
+}
+
+.Movie-Info .m-title ,.Movie-Info-2 .m-title {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Movie-Info .m-title h3 , .Movie-Info-2 .m-title h3 {
+    font-size: 1rem;
+    color: var(--color-dark);
+    font-size: 1rem;
+    color: var(--color-dark);
+    display: flex;
+    align-items: start;
+}
+
+
+
+.Movie-Info .img-poster , .Movie-Info-2 .img-poster {
+    margin-top:1rem;
+    display:flex;
+     justify-content:center;
+     align-content:center;
+    margin-bottom:1.3rem;
+
+ }
+
+
+
+ .Movie-Info .img-poster img ,  .Movie-Info-2 .img-poster img {
+
+    height: 230px;
+    width: 150px;
+
+ }
+
+
+
+ .Movie-Info .img-poster .cover , .Movie-Info-2 .img-poster .cover {
+
+
+    height: 230px;
+    width: 150px;
+    padding: 0.20rem;
+     background-color: #FFF;
+       height: auto;
+ }
+
+ .Movie-Info .fetch , .Movie-Info-2 .fetch {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+ }
+
+
+ .Movie-Info .fetch button ,  .Movie-Info-2 .fetch button {
+    background: var(--color-primary);
+    color: var(--color-white);
+    height: 35px;
+    border-radius: 4px;
+    padding: 0rem 1rem;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+
+
+
+
+.Movie-Info .m-title  textarea , .Movie-Info-2 .m-title  textarea {
+    height:auto;
+    border: 1px solid var(--color-primary);
+    width: 100%;
+    margin-right: .8rem;
+    display: block;
+    padding: 20px;
+    resize: none;
+    border-radius: 5px;
+}
+.Movie-Info .m-title  .counter , .Movie-Info-2 .m-title  .counter{
+    width: 100%;
+    text-align: right;
+    margin-top: 15px;
+    color: #737373;
+}
+
+
+.Movie-Info .m-title .content , .Movie-Info-2 .m-title .content{
+    margin: 10px 0;
+  }
+  .content p{
+    font-size: 15px;
+  }
+  .content ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 7px;
+    margin: 12px 0;
+    border: 1px solid var(--color-primary);
+    border-radius: 3px;
+  }
+
+
+  .m-title {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+}
+
+.kisatitle  {
+    font-size: 1rem;
+    color: var(--color-dark);
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+.chekboxadcomics{/* display: flex; */justify-content: flex-end;width: 100%;margin: 0 1rem;gap: 1.8rem;position: relative;}

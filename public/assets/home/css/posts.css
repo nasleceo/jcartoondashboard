@@ -1,0 +1,138 @@
+.btn-addpost {
+	font-size: 14px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px 0;
+	color: var(--light);
+	background: #0d6efd;
+	transition: all .3s ease;
+	border-radius: 5px;
+	font-weight: 600;
+	margin-bottom: 12px;
+}
+main .btn-addpost:hover {
+	background: #464646;
+}
+
+main .posts {
+	width: 100%;
+	padding: 28px;
+    margin: -3px;
+
+}
+
+.card{
+    position: relative;
+    width: 100%;
+    background: #fff;
+    box-shadow: 15px 15px 60px rgba(0, 0, 0, .15);
+    padding: 20px;
+}
+.card .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card .top .userDeatils{
+    display: flex;
+    align-items: center;
+}
+.card .top .userDeatils .profileImg{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 8px;
+    overflow: hidden;
+}
+.cover{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    cursor: pointer;
+}
+.card .top .userDeatils h3{
+    font-size: 12px;
+    color: #4d4d4f;
+    font-weight: 700;
+    line-height: 1rem;
+    cursor: pointer;
+}
+.card .top .userDeatils span{
+    font-size: 0.75em;
+}
+
+.imgBg{
+    position: relative;
+    width: 100%;
+    height: 320px;
+    margin: 10px 0 15px;
+}
+
+.message{
+    font-weight: 200;
+    margin-top: 5px;
+    color: #777;
+    line-height: 1.5em;
+}
+.message b{
+    color: #262626;
+}
+.message span{
+    color: #1d92ff;
+    cursor: pointer;
+}
+
+.postTime{
+    margin-top: 10px;
+    font-weight: 500;
+    color: #777;
+}
+.menu {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.menu .icon {
+	cursor: pointer;
+}
+ .menu-link {
+	position: absolute;
+	top: calc(100% + 10px);
+	right: 0;
+	width: 140px;
+	background: var(--light);
+	border-radius: 10px;
+	box-shadow: 4px 4px 16px rgba(0, 0, 0, .1);
+	padding: 10px 0;
+	z-index: 100;
+	opacity: 0;
+	pointer-events: none;
+	transition: all .3s ease;
+}
+ .menu-link.show {
+	top: 100%;
+	opacity: 1;
+	pointer-events: visible;
+}
+ .menu-link a {
+	display: block;
+	padding: 6px 16px;
+	font-size: 14px;
+	color: var(--dark);
+	transition: all .3s ease;
+}
+ .menu-link a:hover {
+	background: var(--grey);
+}
+.userdd{
+    display: flex;
+    gap: 1rem;
+
+}
